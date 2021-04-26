@@ -1,0 +1,12 @@
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/bin/Debug/netcoreapp3.1/MicroserviceLibrary.deps.json
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/bin/Debug/netcoreapp3.1/MicroserviceLibrary.runtimeconfig.json
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/bin/Debug/netcoreapp3.1/MicroserviceLibrary.runtimeconfig.dev.json
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/bin/Debug/netcoreapp3.1/MicroserviceLibrary.dll
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/bin/Debug/netcoreapp3.1/MicroserviceLibrary.pdb
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/obj/Debug/netcoreapp3.1/MicroserviceLibrary.csprojAssemblyReference.cache
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/obj/Debug/netcoreapp3.1/MicroserviceLibrary.AssemblyInfoInputs.cache
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/obj/Debug/netcoreapp3.1/MicroserviceLibrary.AssemblyInfo.cs
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/obj/Debug/netcoreapp3.1/MicroserviceLibrary.csproj.CoreCompileInputs.cache
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/obj/Debug/netcoreapp3.1/MicroserviceLibrary.dll
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/obj/Debug/netcoreapp3.1/MicroserviceLibrary.pdb
+/home/damian/Documents/Projects/Csharp/aa.Magisterka/MicroserviceLibrary/obj/Debug/netcoreapp3.1/MicroserviceLibrary.genruntimeconfig.cache
