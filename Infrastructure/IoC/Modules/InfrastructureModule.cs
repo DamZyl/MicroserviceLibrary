@@ -19,6 +19,7 @@ namespace MicroserviceLibrary.Infrastructure.IoC.Modules
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterModule(new AuthModule());
+            builder.RegisterModule(new DomainModule(_applicationAssembly));
             builder.RegisterModule(new DataAccessModule(_configuration, _migrationAssembly));
             builder.RegisterModule(new MediatrModule(_applicationAssembly));
             builder.RegisterModule(new RepositoryModule());

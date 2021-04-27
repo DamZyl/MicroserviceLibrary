@@ -29,8 +29,7 @@ namespace MicroserviceLibrary.Infrastructure.IoC.Modules
             
             foreach (var mediatrOpenType in mediatrOpenTypes)
             {
-                builder
-                    .RegisterAssemblyTypes(Assembly.LoadFrom(_assembly))
+                builder.RegisterAssemblyTypes(Assembly.LoadFrom(_assembly))
                     .AsClosedTypesOf(mediatrOpenType)
                     .AsImplementedInterfaces();
             }
